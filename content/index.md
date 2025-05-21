@@ -10,13 +10,4 @@ tags:
 
 但是对于数字花园来说，刚刚好。
 
-这里可以有精心打理的花朵，也允许有自由生长的杂草（混乱的笔记，思考）。
 
-重点在于持续写作。
-
-#GIS #QGIS #Arcgis  
-#python #Pip  
-#Openwrt  
-#Minecraft  
-#Git  
-#typst
