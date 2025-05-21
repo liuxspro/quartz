@@ -38,7 +38,6 @@
     "@clack/prompts": "^0.10.1",
     "@floating-ui/dom": "^1.7.0",
     "@myriaddreamin/rehype-typst": "^0.6.0",
-    "@myriaddreamin/typst-ts-node-compiler-win32-x64-msvc": "^0.6.0",
     "@napi-rs/simple-git": "0.1.19",
     "@tweenjs/tween.js": "^25.0.0",
     "@webgpu/types": "^0.1.60",
